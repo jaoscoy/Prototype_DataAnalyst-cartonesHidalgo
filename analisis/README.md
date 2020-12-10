@@ -54,12 +54,12 @@ A continuacion describire el significado de cada columna y el objetivo en cada k
 
 ### Análisis especificos
 
-1. El archivo [**_'precioMaterial.ipynb'_**](/precioMaterial.ipynb) contiene los metodos necesarios para relacionar el dataframe original con la lista de precios sugeridos a cotizar **_'../recursos/listaPrecios2020.csv'_** y crear las columnas necesarias para calcular el area total y el costo real de cada producto.
+1. El archivo [**_'precioMaterial.ipynb'_**](precioMaterial.ipynb) contiene los metodos necesarios para relacionar el dataframe original con la lista de precios sugeridos a cotizar **_'../recursos/listaPrecios2020.csv'_** y crear las columnas necesarias para calcular el area total y el costo real de cada producto.
 
-2. El archivo [**_'ventasArticulo.ipynb'_**](/ventasArticulo.ipynb) contiene los metodos necesarios y las graficas para representar las **unidades totales vendidas** y el **monto total de venta** por cada cliente.
+2. El archivo [**_'ventasArticulo.ipynb'_**](ventasArticulo.ipynb) contiene los metodos necesarios y las graficas para representar las **unidades totales vendidas** y el **monto total de venta** por cada cliente.
 
-3. El archivo [**_'consumoTotal.ipynb'_**](/consumoTotal.ipynb) contiene los metodos y graficas necesarios para representar el consumo total de materia prima por cada mes de operación, categorizando por calibre para pronosticar un inventario estimado.
+3. El archivo [**_'consumoTotal.ipynb'_**](consumoTotal.ipynb) contiene los metodos y graficas necesarios para representar el consumo total de materia prima por cada mes de operación, categorizando por calibre para pronosticar un inventario estimado.
 
-4. El archivo [**_'productosOferta'_**](/productosOferta.ipynb) contiene un wordCloud para mostrar la configuración de los productos más populares entre nuestros clientes actuales.
+4. El archivo [**_'productosOferta'_**](productosOferta.ipynb) contiene un wordCloud para mostrar la configuración de los productos más populares entre nuestros clientes actuales.
  
 

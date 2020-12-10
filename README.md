@@ -2,7 +2,7 @@
 
 Empresa familiar comercializadora de pedidos de cartón corrugado a minoristas y negocios de bajo consumo para atender necesidades específicas de empaque secundario. La empresa funciona de acuerdo a la siguiente estructura:
 
-![image.png](../recursos/diagramaCartones.png)
+![image.png](/recursos/diagramaCartones.png)
 
 Actualmente, hemos decidido que podemos ampliar la oferta del negocio para además de vender unidades de cartón corrugado, también es posible ofrecer servicios de asesoría en internet para solucionar problemas de diseño, calidad y eficiencia.
 
@@ -24,7 +24,7 @@ Fortalezas:
 
 # ¿Que podemos crear para solucionar el problema?
 
-![image.png](../recursos/analisisTecnologiasLite.png)
+![image.png](/recursos/analisisTecnologiasLite.png)
 
 1. Definición de la estructura de la base de datos para acoplar a un proyecto de stack **MERN** con ayuda de **MoonModeler**.
 
