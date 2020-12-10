@@ -1,6 +1,6 @@
 # Analisis de la información
 
-Una vez que la información fue exportada desde el kernel **_'../adquisicionDatos/raw.ipynb'_**, usaremos este dataframe para analizar la información más relevante de las operaciones de venta y las relaciones existentes entre los clientes y las categorias de cada producto.
+Una vez que la información fue exportada desde el kernel [**_'../adquisicionDatos/raw.ipynb'_**](../adquisicionDatos/raw.ipynb), usaremos este dataframe para analizar la información más relevante de las operaciones de venta y las relaciones existentes entre los clientes y las categorias de cada producto.
 
 A continuacion describire el significado de cada columna y el objetivo en cada kernel de esta carpeta.
 
