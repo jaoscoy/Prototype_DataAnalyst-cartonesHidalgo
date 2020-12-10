@@ -15,4 +15,4 @@ Como resultado se utilizo el siguiente diagrama desarrollado con la herramienta 
 Por cada colección existe un kernel para exportar registros directamente a la base de datos en MongoDB considerando en algunas colecciones ordenes repetitivas, objetos anidados y adición de registros especificos.
 
 
-El kernel [**_raw_**](/raw.ipynb) actualiza toda la información en un dataframe para el uso del resto de los codigos de análisis.
+El kernel [**_raw_**](raw.ipynb) actualiza toda la información en un dataframe para el uso del resto de los codigos de análisis.
