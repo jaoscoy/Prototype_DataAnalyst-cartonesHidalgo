@@ -28,7 +28,7 @@ Los objetivos especificos para lograrlo son los siguientes:
 
 ## Carpetas
 
- * En la carpeta [_'adquisiciónDatos'_](/adquisiciónDatos) se encuentran los kernels configurados para exportar información a la base de tados en formato **_JSON_**.
+ * En la carpeta [_'adquisiciónDatos'_](/adquisicionDatos) se encuentran los kernels configurados para exportar información a la base de tados en formato **_JSON_**.
  
  * En la carpeta [_'analisis'_](/analisis) se encuentran los kernels para analisis, ordenamiento y visualización de información.
  
