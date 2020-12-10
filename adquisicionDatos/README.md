@@ -2,11 +2,11 @@
 
 La base de datos fue construida con base al modelo NoSQL debido a las siguientes condiciones:
     
-    1. Un usuario puede tener asignadas solicitudes sin un patron obligatorio (tener una, tener varias).
+  1. Un usuario puede tener asignadas solicitudes sin un patron obligatorio (tener una, tener varias).
     
-    2. Una solicitud o una orden de compra pueden tener asignados items sin un patron obligatorio (tener uno, tener varios)
+  2. Una solicitud o una orden de compra pueden tener asignados items sin un patron obligatorio (tener uno, tener varios)
     
-    3. Esta estructura puede utilizarse tambien para ligarse con Moongosee a una API para gestionar información desde la aplicación web de la empresa.
+  3. Esta estructura puede utilizarse tambien para ligarse con Moongosee a una API para gestionar información desde la aplicación web de la empresa.
     
 Como resultado se utilizo el siguiente diagrama desarrollado con la herramienta Moon Modeler para represntar graficamente las colecciones, los tipos de datos y las relaciones en el modelo de la BD.
 
