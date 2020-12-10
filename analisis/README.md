@@ -40,4 +40,7 @@ A continuacion describire el significado de cada columna y el objetivo en cada k
 
 4. El archivo [**_'productosOferta'_**](productosOferta.ipynb) contiene un wordCloud para mostrar la configuración de los productos más populares entre nuestros clientes actuales.
  
+# Aplicación final
 
+- Ánalisis de materia prima para la optimización de tamaños y reducción de desperdicio.
+- Recomendación de CalibreECT por el peso y medidas introducidas por el cliente en la app.
