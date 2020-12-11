@@ -32,7 +32,7 @@ A continuacion describire el significado de cada columna y el objetivo en cada k
 
 ### Análisis especificos
 
-1. El archivo [**_'precioMaterial.ipynb'_**](precioMaterial.ipynb) contiene los metodos necesarios para relacionar el dataframe original con la lista de precios sugeridos a cotizar **_'../recursos/listaPrecios2020.csv'_** y crear las columnas necesarias para calcular el area total y el costo real de cada producto.
+1. El archivo [**_'ventasOperaciones.ipynb'_**](ventasOperaciones.ipynb) contiene los metodos necesarios para relacionar el dataframe original con la lista de precios sugeridos a cotizar **_'../recursos/listaPrecios2020.csv'_** y crear las columnas necesarias para calcular el area total y el costo real de cada producto.
 
 2. El archivo [**_'ventasArticulo.ipynb'_**](ventasArticulo.ipynb) contiene los metodos necesarios y las graficas para representar las **unidades totales vendidas** y el **monto total de venta** por cada cliente.
 
