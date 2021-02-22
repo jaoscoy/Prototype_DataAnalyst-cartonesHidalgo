@@ -24,8 +24,6 @@ Fortalezas:
 
 # ¿Que podemos crear para solucionar el problema?
 
-![image.png](/recursos/analisisTecnologiasLite.png)
-
 1. Definición de la estructura de la base de datos para acoplar a un proyecto de stack **MERN** con ayuda de **MoonModeler**.
 
 2. Creación de validaciones para rechazar información de formato incorrecto.
